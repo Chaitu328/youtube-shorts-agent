@@ -26,7 +26,7 @@ Powered natively by **Google Gemini** (`gemini-2.5-flash`), with **100% free-tie
 
 ### 1. Clone & Navigate
 ```bash
-git clone https://github.com/YOUR_USERNAME/youtube-shorts-agent.git
+git clone https://github.com/Chaitu328/youtube-shorts-agent.git
 cd youtube-shorts-agent
 ```
 
