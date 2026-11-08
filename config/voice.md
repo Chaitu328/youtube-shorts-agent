@@ -28,3 +28,4 @@ Use this file to calibrate the YouTube Shorts Agent to sound like you or your br
 ## Taboo Words (Do Not Use)
 - "Delve", "Tapestry", "Testament", "Unleash", "Game-changer", "Mind-blowing", "Insane", "Crazy"
 - Keep vocabulary clear, punchy, and natural to speak out loud.
+

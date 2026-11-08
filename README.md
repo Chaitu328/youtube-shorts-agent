@@ -106,3 +106,4 @@ Edit [`config/voice.md`](config/voice.md) to define:
 
 ## 📜 License
 MIT License. Free to use, adapt, and build upon!
+
