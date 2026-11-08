@@ -1,0 +1,151 @@
+{
+  "formulas": [
+    {
+      "id": "contrarian",
+      "name": "The Contrarian",
+      "template": "Everyone thinks [Common Belief], but [Surprising Truth].",
+      "example": "Everyone thinks diamonds are rare, but warehouses are overflowing with them.",
+      "best_for": "Debunking myths, history, science, finance"
+    },
+    {
+      "id": "micro_story",
+      "name": "The Micro-Story",
+      "template": "In [Year/Place], [Subject] did something that changed [Outcome] forever.",
+      "example": "In 1971, one man bought a one-way ticket, jumped out of a Boeing 727, and vanished.",
+      "best_for": "True crime, historical mysteries, biographies"
+    },
+    {
+      "id": "secret_mechanism",
+      "name": "The Secret Mechanism",
+      "template": "The real reason [Entity] never talks about [Subject].",
+      "example": "The real reason airlines paint all their planes white will surprise you.",
+      "best_for": "Behind-the-scenes, engineering, business strategies"
+    },
+    {
+      "id": "impossible_juxtaposition",
+      "name": "The Impossible Juxtaposition",
+      "template": "How [Underdog/Unlikely Element] managed to [Incredible Feat].",
+      "example": "How a teenage janitor accidentally cracked a 50-year-old CIA encryption.",
+      "best_for": "Human interest, unexpected triumphs, bizarre events"
+    },
+    {
+      "id": "the_statistic",
+      "name": "The Statistic",
+      "template": "[Percentage]% of people don't realize [Shocking Fact].",
+      "example": "99% of people don't realize the ocean floor is younger than the dinosaurs.",
+      "best_for": "Educational shorts, mind-blowing facts, trivia"
+    },
+    {
+      "id": "the_warning",
+      "name": "The Warning",
+      "template": "If you ever see [Unusual Sign], [Urgent Action] immediately.",
+      "example": "If you ever see square waves in the ocean, get out of the water immediately.",
+      "best_for": "Survival tips, tech safety, life hacks"
+    },
+    {
+      "id": "forbidden_knowledge",
+      "name": "The Forbidden Knowledge",
+      "template": "What [Authority/Company] doesn't want you to know about [Subject].",
+      "example": "What supermarkets do to the lighting in the meat aisle to trick your brain.",
+      "best_for": "Consumer psychology, secrets, exposés"
+    },
+    {
+      "id": "the_challenge",
+      "name": "The Challenge",
+      "template": "Only 1 in 100 people can spot what's wrong with this [Object/Statement].",
+      "example": "Only 1 in 100 people can figure out how this bank robbery succeeded with zero weapons.",
+      "best_for": "Puzzles, interactive clips, observation tests"
+    },
+    {
+      "id": "direct_accusation",
+      "name": "The Direct Accusation",
+      "template": "You are doing [Everyday Action] completely wrong.",
+      "example": "You have been charging your phone wrong this entire time, and it's killing the battery.",
+      "best_for": "Productivity, health, gadget usage"
+    },
+    {
+      "id": "curiosity_loophole",
+      "name": "The Curiosity Loophole",
+      "template": "There is a legal loophole that allows [Shocking Permission].",
+      "example": "There is an island where nobody is legally allowed to be born or buried.",
+      "best_for": "Geography, strange laws, geopolitical oddities"
+    },
+    {
+      "id": "timeline_twist",
+      "name": "The Timeline Twist",
+      "template": "In just [Short Duration], [Subject] lost [Massive Asset].",
+      "example": "In just 14 seconds, this trader lost 440 million dollars with a single click.",
+      "best_for": "Finance disasters, rapid downfall stories, military blunders"
+    },
+    {
+      "id": "cost_of_free",
+      "name": "The Cost of Free",
+      "template": "[Free Product] is free for a reason, and you won't like it.",
+      "example": "Free flight tracking apps aren't making money from ads—here's the dark truth.",
+      "best_for": "Tech, privacy, business teardowns"
+    },
+    {
+      "id": "glitch_in_history",
+      "name": "The Glitch in History",
+      "template": "The historical coincidence that sounds too absurd to be real.",
+      "example": "The bizarre coincidence of two total strangers who lived identical lives down to their dogs' names.",
+      "best_for": "Mind-bending history, spooky coincidences"
+    },
+    {
+      "id": "unsolved_mystery",
+      "name": "The Unsolved Mystery",
+      "template": "Science can explain [Complex Topic], but has zero answers for this.",
+      "example": "Science can map distant galaxies, but still has no idea why we yawn.",
+      "best_for": "Biology, cosmology, deep ocean mysteries"
+    },
+    {
+      "id": "hidden_feature",
+      "name": "The Hidden Feature",
+      "template": "This hidden button in your [Everyday Item] was designed for an emergency.",
+      "example": "This hidden latch inside elevator ceilings isn't what movies told you.",
+      "best_for": "Gadgets, automotive, architecture secrets"
+    },
+    {
+      "id": "worst_decision",
+      "name": "The Worst Decision",
+      "template": "The most catastrophic decision in [Domain] history.",
+      "example": "The film company that gave away all Star Wars toy rights for free.",
+      "best_for": "Business blunders, history fails, regret stories"
+    },
+    {
+      "id": "the_lie",
+      "name": "The Lie You Believe",
+      "template": "You were taught this in school, but it's 100% false.",
+      "example": "You were taught that Mount Everest is the tallest mountain on Earth. It's not.",
+      "best_for": "Science myths, history corrections"
+    },
+    {
+      "id": "survival_rule",
+      "name": "The Survival Rule",
+      "template": "The rule of [Number] that could save your life in [Dangerous Situation].",
+      "example": "The 3-second rule that pilots use when their cockpit instruments fail.",
+      "best_for": "Aviation, military, wilderness survival"
+    },
+    {
+      "id": "bizarre_origin",
+      "name": "The Bizarre Origin",
+      "template": "The horrifying original purpose of [Everyday Item].",
+      "example": "The shocking reason bubble wrap was originally invented.",
+      "best_for": "Inventors, nostalgia, product histories"
+    },
+    {
+      "id": "one_second_mistake",
+      "name": "The One-Second Mistake",
+      "template": "One tiny typo that caused a [Monumental Disaster].",
+      "example": "One missing hyphen in NASA's code caused a rocket to explode in 1962.",
+      "best_for": "Tech fails, engineering disasters, military accidents"
+    },
+    {
+      "id": "inversion",
+      "name": "The Inversion",
+      "template": "Stop doing [Standard Advice]. Do this instead.",
+      "example": "Stop setting 5 AM alarms to be productive. Elite performers do this instead.",
+      "best_for": "Fitness, habits, career, mindset"
+    }
+  ]
+}
